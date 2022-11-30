@@ -1,0 +1,6 @@
+UserName,Password,IsBanned,IsAdmin
+testUser1,pwd1,false,false
+testUser2,pwd2,false,false
+testUser3,pwd3,false,false
+adminUser,pwd5,false,true
+bannedUser,pwd4,false,false

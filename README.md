@@ -1,0 +1,2 @@
+To use the program, run the main method in ProgramStart.java and then follow the guides given in the terminal.
+If you want to use admin commands, there is an initial admin user already created with username "adminUser" and password "pwd5"
